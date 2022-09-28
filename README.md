@@ -1,10 +1,11 @@
-# timetable
+# Schduler
 
-A new Flutter project.
+This project is a toy project of the mobile development team of the-pool project, and its main goal is to create a usable scheduler application.
+The functionality of calendar-thing is currently being implemented, and a timetable will be added later.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+-
 
 A few resources to get you started if this is your first Flutter project:
 
